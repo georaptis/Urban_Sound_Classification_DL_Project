@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-To run this project, you need to have Anaconda installed. You can download and install Anaconda from [here](https://www.anaconda.com/products/distribution).
+To run this project, you need to have miniconde installed. You can download and install miniconda from [here]([https://www.anaconda.com/products/distribution](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe))(Windows).
 
 Download the needed features from [here](https://drive.google.com/drive/folders/1vToSq-XES05nR0M9EYnIx2RIOulwXXpi?usp=sharing). (see Directory structure)
 
